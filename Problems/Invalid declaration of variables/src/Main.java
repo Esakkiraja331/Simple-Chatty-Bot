@@ -1,0 +1,1 @@
+/* a strange /* // /* single-line comment */
